@@ -16,6 +16,5 @@ restaurant-name-generator/
 │
 ├── main.py               # Streamlit app to interact with the user
 ├── langchain_helper.py   # Contains LangChain logic for name and menu generation
-├── secret_key.py         # Stores API keys (DO NOT share this publicly)
-└── requirements.txt      # Required Python libraries
+├── secret_key.py         # Stores API keys ( Publicly it is not available )
 ```
